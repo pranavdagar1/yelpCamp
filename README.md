@@ -31,7 +31,7 @@ File Uploads: Cloudinary
 sh
 Copy
 Edit
-git clone https://github.com/yourusername/yelpcamp.git
+git clone https://github.com/pranavdagar1/yelpcamp.git
 cd yelpcamp
 2. Install Dependencies
 sh
